@@ -30,3 +30,11 @@ h1 {
 label {
     margin-bottom: 20px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    color: #2486cc;
+}
