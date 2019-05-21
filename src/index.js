@@ -18,7 +18,6 @@ todos.forEach(todo => {
     const dom = htmlToDOM(html);
     //Append to list parent (<section>)
     section.appendChild(dom);
-
 });
 
 //dynamically creating header
